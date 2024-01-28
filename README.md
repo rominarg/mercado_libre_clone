@@ -1,8 +1,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
 ![React](https://img.shields.io/badge/React-18.x-violet)
-![React DOM](https://img.shields.io/badge/ReactDOM-18.x-orange)
-![React DOM](https://img.shields.io/badge/ReactRouterDOM-18.x-green)
-
 
 # Clon de Mercado Libre en React
 
