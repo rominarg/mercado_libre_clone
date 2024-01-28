@@ -16,32 +16,24 @@ Es importante destacar que este proyecto se realizó con fines educativos y de p
 
 Este proyecto se inicializa utilizando `npx create-react-app`, una herramienta que facilita la creación de aplicaciones React con una configuración predefinida.
 
-1.
-``bash
-npx create-react-app my-app
-
-2.Se utilizaron 
-``bash
-npm i react-icons
-
-3.
-``bash
-npm i styled-components
-
-
-
-
 ### Pasos para la inicialización:
 
 1. Clona el repositorio o descarga el código fuente.
 
-```bash
-git clone [<URL_DEL_REPOSITORIO>](https://github.com/rominarg/mercado_libre_clone.git)
+    ```bash
+    git clone https://github.com/rominarg/mercado_libre_clone.git
 
-cd nombre-del-proyecto
+    cd nombre-del-proyecto
+    ```
 
-### Autoria:
+2. Instala las dependencias necesarias.
 
-Esta practica se realizo siguiento el siguiente video
-https://www.youtube.com/watch?v=U5qGUF62kmc&t=2049s
-Saludos a nuestro amigo Json Dev
+    ```bash
+    npm install react-icons styled-components
+    ```
+
+### Autoría:
+
+Este proyecto se realizó siguiendo el tutorial del siguiente video: [Mercado Libre Clone](https://www.youtube.com/watch?v=U5qGUF62kmc&t=2049s)
+
+Saludos a nuestro amigo Json Dev.
