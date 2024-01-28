@@ -26,10 +26,14 @@ Este proyecto se inicializa utilizando `npx create-react-app`, una herramienta q
     cd nombre-del-proyecto
     ```
 
-2. Instala las dependencias necesarias.
+2. Instala react-icons
+      ```bash
+   npm i react-icons
+    ```
+3. Instala styled-components
 
     ```bash
-    npm install react-icons styled-components
+   npm i styled-components
     ```
 
 ### Autoría:
