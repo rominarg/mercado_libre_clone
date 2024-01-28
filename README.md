@@ -10,7 +10,7 @@ Podes consultar el diseño de la pagina en Wayback Machine  https://web.archive.
 
 ## Aviso Legal
 
-Es importante destacar que este proyecto se realizó con fines educativos y de práctica únicamente. La clonación de la página CMTV no tiene ningún propósito comercial ni busca infringir derechos de autor. El contenido utilizado fue seleccionado exclusivamente con el objetivo de simular un entorno de desarrollo real.
+Es importante destacar que este proyecto se realizó con fines educativos y de práctica únicamente. La clonación de la página no tiene ningún propósito comercial ni busca infringir derechos de autor. El contenido utilizado fue seleccionado exclusivamente con el objetivo de simular un entorno de desarrollo real.
 
 ## Inicialización del Proyecto
 
